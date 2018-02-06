@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Calculator</string>
+    <string name="app_name">计算器</string>
+    <string name="退出">退出</string>
+    <string name="标准计算">标准计算</string>
+    <string name="科学计算">科学计算</string>
 </resources>
